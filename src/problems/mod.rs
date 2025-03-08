@@ -1,4 +1,5 @@
-pub mod add_two_numbers;
-pub mod two_sum;
+pub mod problem_1;
+pub mod problem_2;
+pub mod problem_3;
 
 pub struct Solution;

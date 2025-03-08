@@ -1,7 +1,7 @@
 mod problems;
 
-use problems::two_sum;
+use problems::problem_3::example;
 
 fn main() {
-    two_sum::example();
+    example();
 }
